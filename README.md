@@ -1,1 +1,3 @@
-# Metro-Rail
+# Forecasting Metro Rail Ridership: A data-driven approach utilizing historical data
+
+## This research endeavor seeks to develop a robust model capable of accurately predict metro rail passenger flows by applying advanced analytics and machine learning techniques, enabling metro authorities to optimize operations, enhance passenger experience and make informed decisions regarding infrastructure and resource allocation. The central premise of this study is to leverage historical data to assess and anticipate metro rail activity, providing valuable insights for efficient management and planning.
